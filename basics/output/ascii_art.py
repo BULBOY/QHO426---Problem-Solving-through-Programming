@@ -1,0 +1,15 @@
+print("Please enter a character for the eye")
+eye = input()
+
+
+print("###########")
+print(f"# {eye}  |  {eye} #")
+print("#   ___   #")
+print("###########")
+print("    [ ]    ")
+print("@---------@")
+print("| |     | |")
+print("| |     | |")
+print("|_|     |_|")
+print("  |__|__|  ")
+print("[____|____]")
